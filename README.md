@@ -1,5 +1,4 @@
-# tuna-salad-sandwiches
-Tuna Salad Sandwiches
+# Tuna Salad Sandwiches
 
 ## Ingredients
 
